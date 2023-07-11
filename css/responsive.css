@@ -1,0 +1,86 @@
+@media (max-width: 25em) {
+  .hero-img {
+    margin-top: 12.8rem;
+  }
+  .hero-heading {
+    padding: 0rem 3rem 0rem 3rem;
+  }
+  .hero-description {
+    padding: 0rem 2rem 0rem 2rem;
+  }
+  .hero-btn-area {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15rem;
+  }
+  .hero-btn {
+    padding: 1.6rem 10.8rem;
+  }
+  .track-heading {
+    margin-bottom: 2rem;
+    padding: 0rem 1rem 0rem 1rem;
+  }
+  .track-description {
+    padding: 0rem 5rem 0rem 5rem;
+    margin-bottom: 6.4rem;
+  }
+  .track-lower-container {
+    grid-template-columns: repeat(1, 1fr);
+    padding: 3rem;
+    margin-bottom: 15rem;
+  }
+  .track-img img {
+    width: 100%;
+    height: 100%;
+  }
+  .track-content-area {
+    text-align: center;
+    align-items: center;
+  }
+  .track-subdescription {
+    padding: 0rem 4rem 0rem 4rem;
+  }
+  .access-img {
+    margin-bottom: 10rem;
+  }
+  .access-img img {
+    height: 100%;
+    width: 100%;
+  }
+  .supercharge-content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .supercharge-description {
+    padding: 0rem 6rem 0rem 6rem;
+  }
+  .logo-container {
+    flex-direction: column;
+    gap: 7.2rem;
+  }
+  .footer-grid {
+    grid-template-columns: repeat(1, 1fr);
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-content {
+    justify-content: center;
+    align-items: center;
+    gap: 0rem;
+  }
+  .footer-accounts {
+    grid-column: span 1;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3.2rem;
+    gap: 4.8rem;
+  }
+  .footer-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3.2rem;
+  }
+  .footer-links{
+    margin-bottom: 3.2rem;
+  }
+}
